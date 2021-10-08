@@ -1,5 +1,6 @@
 html{
 	background-image: url(_background.jpg);
+	background-size: cover;
 	font-family: 'courrier', Helvetica, sans-serif; 
 }
 .center{
